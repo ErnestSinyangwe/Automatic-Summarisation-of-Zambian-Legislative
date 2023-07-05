@@ -1,4 +1,4 @@
-Project Name: Zambian Legislative Document Summarization
+Project Name: Automatic Summarisation of Zambian Legislative
 
 Description: This project aims to create a model that can summarize Zambian legislative documents to be specific acts of parliaments. The model will be trained on a dataset of Zambian legislative documents, and it will be able to extract the key information from these documents and summarize it in a concise and informative way.
 
